@@ -48,8 +48,7 @@
 
 ## 🖥️ Demo UI
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
-*(Aggiungi uno screenshot reale della dashboard qui!)*
+(https://imgur.com/MnwBWUl) (https://imgur.com/A4QJEWw)
 
 ---
 
