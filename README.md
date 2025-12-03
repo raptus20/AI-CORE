@@ -14,6 +14,11 @@
 
 ---
 
+## Built on AI‑CORE principles
+Code Master is inspired by the AI‑CORE self‑improvement framework: a full‑stack system where an AI can analyse, suggest and implement improvements to its own code under human supervision.
+The same core ideas used in AI‑CORE – sandboxed changes, explicit memory, feedback loops that behave like emotions, and human‑in‑the‑loop approval – are applied here to code analysis for human developers.
+The tool learns from effective fixes, stores them as reusable patterns, and gradually adapts to each programmer's personal style instead of enforcing rigid external standards.
+
 ##  Perché è diverso?
 
 - **Autonomous AI Evolution:** L’AI analizza il proprio codice, propone miglioramenti, li testa in sandbox e li applica se approvati.
