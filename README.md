@@ -102,8 +102,7 @@ Crediamo in una AI che collabora autenticamente con l’umano, evolve da sola, m
 ## Esempio client: Code Master
 **Code Master** è un'implementazione pratica dei principi di AI-CORE applicati all'analisi del codice e miglioramento per gli sviluppatori umani.
 Dimostra come i concetti fondamentali del framework di AI-CORE – esecuzione in sandbox, approvazione umana nel ciclo, memoria esplicita di pattern, e feedback loop – possono essere adattati a un dominio specifico (qualità del codice) mantenendo la stessa filosofia di miglioramento autonomo sotto supervisione umana.
-For more on Code Master, visit the [Code Master repository](https://github.com/raptus20/CodeMaster).
-
+Per ulteriori informazioni su Code Master, visita il [repository Code Master](https://github.com/raptus20/CodeMaster).
 ##  Contatti & Collaborazioni
 
 Amiamo lavorare su progetti complessi ed evolutivi: feedback, fork, PR e le nuove idee sono sempre benvenute!  
